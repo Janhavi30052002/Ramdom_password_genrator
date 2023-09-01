@@ -8,7 +8,7 @@ import tkinter
 window = Tk()
 
 # providing the title of the window.
-window.title("Random Password Generator - Scaler Topics")
+window.title("Random Password Generator - By Janhavi Belnekar")
 
 # setting the size of the window.
 window.geometry("600x600")
